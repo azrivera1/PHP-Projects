@@ -8,15 +8,13 @@
   </head>
   <body>
     <div class="container">
-          <h1>Up & Running with PHP</h1>
+          <h1>Variables in PHP</h1>
           <div class="code-content">
             <?php
-
                 // This is where the variables are declared
                $name = "Juan";
                $favorite_number = 5;
                $happy = true;
-
                // This is where the values are outputted
                echo $name;
                echo "<hr>";
