@@ -11,7 +11,7 @@
           <h1>Arrays in PHP</h1>
           <div class="code-content">
             <?php
-               $fruits = array('apple', 'grapes', 'strawberries', 'banana');
+               $fruits = array('apple', 'grapes', 'strawberries', 'bananas');
                array_push($fruits, 'pear');
                echo $fruits[4];
                echo "<hr>";
