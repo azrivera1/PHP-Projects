@@ -12,7 +12,7 @@
           <div class="code-content">
             <?php
                $student = array(
-                  'first_name' => 'Julien',
+                  'first_name' => 'Joe',
                   'last_name' => 'Ortiz',
                   'city_name' => 'Tucson'
                );
