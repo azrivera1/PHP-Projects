@@ -8,7 +8,7 @@
   </head>
   <body>
     <div class="container">
-         <h1>Up & Running with PHP</h1>
+         <h1>array_key_exists</h1>
          <div class="code-content">
            <?php
            $authors = array("charles dickens", "jane austin", "william shakespeare");
