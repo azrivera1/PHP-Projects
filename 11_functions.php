@@ -8,7 +8,7 @@
   </head>
   <body>
     <div class="container">
-        <h1>functions in PHP</h1>
+        <h1>functions</h1>
         <div class="code-content">
             <?php
                function say_hello($name) {
@@ -19,9 +19,8 @@
                say_hello("John");
                say_hello("Karen");
 
-               
                function sum($num1, $num2) {
-                  echo $num1 + $num2 . "<br/>";
+                 echo $num1 + $num2 . "<br/>";
                }
                sum(2,3);
                sum(10,20);
