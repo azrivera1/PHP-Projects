@@ -2,15 +2,14 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Conditions in PHP</title>
+    <title>Introduction to PHP</title>
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,900&amp;subset=latin-ext" rel="stylesheet">
   </head>
   <body>
 
     <div class="container">
-          <h1>Conditions in PHP</h1>
-
+          <h1>Conditions</h1>
           <div class="code-content">
             <?php
                $number_1 =21;
