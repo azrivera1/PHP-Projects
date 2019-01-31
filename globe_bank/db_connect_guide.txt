@@ -1,9 +1,4 @@
-<?php
-
-
-// This guide demonstrates the five fundamental steps
-// of database interaction using PHP.
-
+// This guide demonstrates the five fundamental steps of database interaction using PHP.
 
 // Credentails
 $dbhost = 'localhost';
@@ -42,4 +37,3 @@ mysqli_free_result($result_set);
 // 5. Close database connection
 mysqli_close($connection);
 
-?>
