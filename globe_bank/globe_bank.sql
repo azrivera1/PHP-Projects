@@ -99,7 +99,6 @@ ALTER TABLE `subjects`
 --
 -- AUTO_INCREMENT for dumped tables
 --
-
 --
 -- AUTO_INCREMENT for table `pages`
 --
